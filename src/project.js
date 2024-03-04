@@ -1,9 +1,10 @@
 import Checkout from "./assets/portfolio/checkout.png";
 import BIT from "./assets/BIT.png";
-//import newsVideo from "./assets/portfolio/newsportal.mp4";
+import newsVideo from "./assets/portfolio/news-portal.mp4";
 import newsPortal from "./assets/portfolio/telegrafi.png";
 import avs from "./assets/portfolio/avs.png"
-//import avsVideo from './assets/portfolio/avsvideo.mp4'
+import avsVideo from './assets/portfolio/avs.mp4'
+import bitVideo from './assets/portfolio/bitdemo.mp4'
 
 export const Projects = [
   {
@@ -31,7 +32,7 @@ export const Projects = [
     id: 2,
     name: "BIT",
     image: BIT,
-    videoUrl:'',
+    videoUrl:bitVideo,
     link: "https://www.building-intelligence.com/",
     description:
       "Introducing a project for efficient corporate building management. Our platform monitors gas emissions, providing real-time insights and predicting potential declines in building value. Users engage with eco-friendly practices, supporting renewable energy solutions and reducing greenhouse gas emissions.",
@@ -53,7 +54,7 @@ export const Projects = [
   {
     id: 3,
     name: "News Portal",
-    videoUrl: '',
+    videoUrl: newsVideo,
     image: newsPortal,
     description:
       "News Portal is an application that allows you to upload your news and track all of the clicks and reaction of your visitors on your portal, also managing all users.",
@@ -63,7 +64,7 @@ export const Projects = [
     id: 4,
     name: "AVS",
     link:'https://avs.test.dcs.comitas.com/',
-    videoUrl: '',
+    videoUrl: avsVideo,
     image: avs,
     description: `MIRA: Empowering Swiss Children Through Education
     MIRA is a project developed for Switzerland, dedicated to providing additional educational support to children facing challenges in learning. Tailored to address the diverse needs of these students, MIRA introduces a user-friendly web application designed to streamline the application process for families and provide administrators with essential data for effective intervention.
