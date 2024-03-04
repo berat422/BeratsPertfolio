@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/BeratsPertfolio/static/css/main.8d29b2fa.css",
+    "main.js": "/BeratsPertfolio/static/js/main.506a2af9.js",
+    "static/media/profile2.png": "/BeratsPertfolio/static/media/profile2.19e244df8f1a10b89e37.png",
+    "static/media/K8S-logo.png": "/BeratsPertfolio/static/media/K8S-logo.47ccc78003b696726365.png",
+    "static/media/checkout.png": "/BeratsPertfolio/static/media/checkout.0569707195a6e7b0b8ed.png",
+    "static/media/avs.png": "/BeratsPertfolio/static/media/avs.688c346bd5fa96f2e84a.png",
+    "static/media/BIT.png": "/BeratsPertfolio/static/media/BIT.571691ace867f69af37f.png",
+    "static/media/NET_Core_Logo.svg.png": "/BeratsPertfolio/static/media/NET_Core_Logo.svg.e5b8df37931defa97ceb.png",
+    "static/media/react.png": "/BeratsPertfolio/static/media/react.0cf951a69d8e58f83f9d.png",
+    "static/media/sql-managment.png": "/BeratsPertfolio/static/media/sql-managment.d182e715e7ee5a68b046.png",
+    "index.html": "/BeratsPertfolio/index.html",
+    "static/media/angular-icon.svg": "/BeratsPertfolio/static/media/angular-icon.e6ed573fa80c0dc1bf57730930ac0158.svg",
+    "main.8d29b2fa.css.map": "/BeratsPertfolio/static/css/main.8d29b2fa.css.map",
+    "main.506a2af9.js.map": "/BeratsPertfolio/static/js/main.506a2af9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d29b2fa.css",
+    "static/js/main.506a2af9.js"
+  ]
+}
