@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/Portfolio/static/css/main.8d29b2fa.css",
-    "main.js": "/Portfolio/static/js/main.bbd3f913.js",
+    "main.css": "/Portfolio/static/css/main.d2cbebb2.css",
+    "main.js": "/Portfolio/static/js/main.a7f41c47.js",
     "static/media/news-portal.mp4": "/Portfolio/static/media/news-portal.6f99e30eaa1ae7c73ace.mp4",
     "static/media/avs.mp4": "/Portfolio/static/media/avs.a86454e571b5bb751dbd.mp4",
     "static/media/bitdemo.mp4": "/Portfolio/static/media/bitdemo.88ce36d0d94657b5daa8.mp4",
+    "static/media/checkout-video.mp4": "/Portfolio/static/media/checkout-video.5cde16717b24fc300975.mp4",
     "static/media/profile2.png": "/Portfolio/static/media/profile2.19e244df8f1a10b89e37.png",
     "static/media/K8S-logo.png": "/Portfolio/static/media/K8S-logo.47ccc78003b696726365.png",
     "static/media/checkout.png": "/Portfolio/static/media/checkout.0569707195a6e7b0b8ed.png",
     "static/media/avs.png": "/Portfolio/static/media/avs.688c346bd5fa96f2e84a.png",
     "static/media/BIT.png": "/Portfolio/static/media/BIT.571691ace867f69af37f.png",
+    "static/media/news-portal.jpg": "/Portfolio/static/media/news-portal.f02aa51fcf72ecbc4059.jpg",
     "static/media/NET_Core_Logo.svg.png": "/Portfolio/static/media/NET_Core_Logo.svg.e5b8df37931defa97ceb.png",
     "static/media/react.png": "/Portfolio/static/media/react.0cf951a69d8e58f83f9d.png",
     "static/media/sql-managment.png": "/Portfolio/static/media/sql-managment.d182e715e7ee5a68b046.png",
     "index.html": "/Portfolio/index.html",
     "static/media/angular-icon.svg": "/Portfolio/static/media/angular-icon.e6ed573fa80c0dc1bf57730930ac0158.svg",
-    "main.8d29b2fa.css.map": "/Portfolio/static/css/main.8d29b2fa.css.map",
-    "main.bbd3f913.js.map": "/Portfolio/static/js/main.bbd3f913.js.map"
+    "main.d2cbebb2.css.map": "/Portfolio/static/css/main.d2cbebb2.css.map",
+    "main.a7f41c47.js.map": "/Portfolio/static/js/main.a7f41c47.js.map"
   },
   "entrypoints": [
-    "static/css/main.8d29b2fa.css",
-    "static/js/main.bbd3f913.js"
+    "static/css/main.d2cbebb2.css",
+    "static/js/main.a7f41c47.js"
   ]
 }
