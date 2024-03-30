@@ -22,7 +22,7 @@ const Home = () => {
            Software Developer
           </h2>
           <p className="text-gray-500 py-4 max-w-md">
-          As a software developer with more than two years of experience, I am deeply invested in both elevating my skills and making meaningful contributions to progressive projects. My journey in the field commenced with hands-on development of software applications, allowing me to cultivate proficiency across technologies  .NET Core, Angular, and React. Looking ahead, my focus remains on continual skill enhancement to positively impact innovative initiatives. Beyond individual growth, my aim is to cultivate an atmosphere of collaboration that fosters both personal and organizational advancement.
+          As a software developer, I am responsible for designing and building software applications while ensuring that they meet user expectations.
           </p>
 
           <div className="portfolio-btn">

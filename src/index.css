@@ -36,7 +36,6 @@ body {
 }
 
 .link-underline-black {
-  /* background-image: linear-gradient(transparent, transparent), linear-gradient(#F2C, rgb(60, 34, 255)) */
   background-image: linear-gradient(transparent, transparent),
     linear-gradient(#000, #fff);
 }
@@ -48,25 +47,25 @@ body {
 }
 
 .custom-modal {
-  width: 80%; /* Adjust the width as needed */
-  height: 80%; /* Adjust the height as needed */
-  overflow: auto; /* Add overflow property if content exceeds modal size */
+  width: 80%; 
+  height: 80%; 
+  overflow: auto;
   background: linear-gradient(black 25%, rgb(31, 41, 54) 58%, black 15%) !important;
   border-color: #e5e7eb;
   color: #e5e7eb;
-  border-radius: 10px; /* Optional: Add border radius for rounded corners */
+  border-radius: 10px;
 }
 
 .task-list {
-  list-style-type: none; /* Remove default bullet points */
+  list-style-type: none;
 }
 
 .task-list li:before {
-  content: "\2022"; /* Unicode character for bullet point */
-  color: white; /* Set color to white */
+  content: "\2022";
+  color: white;
   display: inline-block;
-  width: 1em; /* Adjust the width of the bullet point as needed */
-  margin-left: -1em; /* Move the bullet point to the left of the list item */
+  width: 1em;
+  margin-left: -1em;
 }
 
 .project-details {
@@ -106,14 +105,19 @@ body {
   margin-bottom: 5px;
 }
 
-/* Style for iframe */
 iframe {
   width: 100%;
   height: 400px;
 }
 
+.flex-column-center{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+}
+
 .custom-overlay {
-  background-color: rgba(0, 0, 0, 0.5); /* Optional: Change overlay background color */
+  background-color: rgba(0, 0, 0, 0.5);
 }
 
 .portfolio,
@@ -126,7 +130,7 @@ iframe {
 }
 @media (max-width:638px){
   .experience{
-    margin-top: 150% !important;
+    margin-top: 170% !important;
   }
 }
 @media (min-width:767px){
@@ -153,16 +157,14 @@ iframe {
 .nav-links {
   text-underline-offset: 1rem;
 }
-/* modal-styles.css */
+
 .ReactModal__Overlay {
-  /* Your overlay styles here */
   background-color: rgba(0, 0, 0, 0.5) !important;
 }
 .md\:h-screen{
   height: 75vh !important;
 }
 .ReactModal__Content {
-  /* Your content styles here */
   position: absolute;
   top: 50% !important;
   left: 50% !important;
@@ -208,7 +210,7 @@ iframe {
   .about,
   .portfolio,
   .experience {
-    margin-top: 10%;
+    margin-top: 25%;
   }
 
   .home img {
