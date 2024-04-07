@@ -134,7 +134,9 @@ iframe {
   }
 }
 @media (min-width:767px){
-
+  .experience{
+    margin-top: 30% !important;
+  }
   .styletip{
     height: 232px;
   }
