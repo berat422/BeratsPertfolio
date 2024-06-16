@@ -5,13 +5,12 @@ import Portfolio from "./Portfolio";
 import Experience from "./Experience";
 import Contact from "./Contact";
 import Footer from "./Footer";
-import SocialLinks from "./SocialLinks"
-import React from 'react';
-
+import SocialLinks from "./SocialLinks";
+import React from "react";
 
 const Main = () => {
-    return (
-      <React.Fragment>
+  return (
+    <React.Fragment>
       <NavBar />
       <Home />
       <About />
@@ -20,8 +19,8 @@ const Main = () => {
       <Contact />
       <Footer />
       <SocialLinks />
-      </React.Fragment>
-    );
-  };
-  
-  export default Main;
+    </React.Fragment>
+  );
+};
+
+export default Main;

@@ -2,10 +2,10 @@ import Checkout from "./assets/portfolio/checkout.png";
 import BIT from "./assets/BIT.png";
 import newsVideo from "./assets/portfolio/news-portal.mp4";
 import newsPortal from "./assets/portfolio/news-portal.jpg";
-import avs from "./assets/portfolio/avs.png"
-import avsVideo from './assets/portfolio/avs.mp4'
-import bitVideo from './assets/portfolio/bitdemo.mp4'
-import checkoutVideo from './assets/portfolio/checkout-video.mp4'
+import avs from "./assets/portfolio/avs.png";
+import avsVideo from "./assets/portfolio/avs.mp4";
+import bitVideo from "./assets/portfolio/bitdemo.mp4";
+import checkoutVideo from "./assets/portfolio/checkout-video.mp4";
 
 export const Projects = [
   {
@@ -13,7 +13,7 @@ export const Projects = [
     name: "Checkout Store",
     image: Checkout,
     link: "https://checkoutstore.co.uk/",
-    videoUrl:checkoutVideo,
+    videoUrl: checkoutVideo,
     description:
       "Checkout store is an e-commerce project that helps buisnesses to manage stock, sales, orders , track state of order, menage point of sales, online payments etc.",
     tasks: [
@@ -32,7 +32,7 @@ export const Projects = [
     id: 2,
     name: "BIT",
     image: BIT,
-    videoUrl:bitVideo,
+    videoUrl: bitVideo,
     link: "https://www.building-intelligence.com/",
     description:
       "Our platform manages corporate building efficiency. It monitors gas emissions, presents opportunities for reducing emissions by selecting government funds.",
@@ -55,6 +55,7 @@ export const Projects = [
     id: 3,
     name: "News Portal",
     videoUrl: newsVideo,
+    gitLink: "https://github.com/berat422/NewsPortalApp",
     image: newsPortal,
     description:
       "News Portal is an application that allows you to upload your news and track all of the clicks and reaction of your visitors on your portal, also managing all users.",
@@ -63,7 +64,7 @@ export const Projects = [
   {
     id: 4,
     name: "AVS",
-    link:'https://avs.test.dcs.comitas.com/',
+    link: "https://avs.test.dcs.comitas.com/",
     videoUrl: avsVideo,
     image: avs,
     description: `

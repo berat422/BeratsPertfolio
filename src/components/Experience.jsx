@@ -2,10 +2,10 @@ import React from "react";
 import Angular from "../assets/angular-icon.svg";
 import reactImage from "../assets/react.png";
 import netcore from "../assets/NET_Core_Logo.svg.png";
-import mongo from "../assets/mongodb.png"
-import docker from "../assets/Docker.png"
-import kubernetes from "../assets/K8S-logo.png"
-import SQL from "../assets/sql-managment.png"
+import mongo from "../assets/mongodb.png";
+import docker from "../assets/Docker.png";
+import kubernetes from "../assets/K8S-logo.png";
+import SQL from "../assets/sql-managment.png";
 const Experience = () => {
   const techs = [
     {
@@ -50,7 +50,6 @@ const Experience = () => {
       title: "Kubernetes",
       style: "shadow-blue-600",
     },
-       
   ];
 
   return (
@@ -61,9 +60,12 @@ const Experience = () => {
       <div className="max-w-screen-lg mx-auto p-4 flex flex-col justify-center text-white">
         <div className="mt-5">
           <p className="text-4xl font-bold border-b-4 border-gray-500 p-2 inline">
-          Technology
+            Technology
           </p>
-          <p className="py-6">These are the technologies I've worked with and used them in my projects.</p>
+          <p className="py-6">
+            These are the technologies I've worked with and used them in my
+            projects.
+          </p>
         </div>
 
         <div className="w-full grid grid-cols-2 sm:grid-cols-3 gap-8 text-center py-8 px-12 sm:px-0">
